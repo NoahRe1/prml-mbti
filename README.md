@@ -6,9 +6,9 @@
 
 # 文件说明
 
-- prml-mbti.ipynb（代码）
+- prml_mbti.ipynb（代码）
 - youtube_video_info.json（爬取的 YouTube URL 与视频标题的映射关系）
-- bert.npy（数据集中每个样本经过 BERT* 提取出的类别标签的归一化结果）
+- bert_feature.npy（数据集中每个样本经过 BERT* 提取出的类别标签的归一化结果）
 
 *此处使用的 BERT 为经过情感分析微调的版本：https://huggingface.co/bhadresh-savani/bert-base-uncased-emotion
 
