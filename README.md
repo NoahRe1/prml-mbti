@@ -4,6 +4,8 @@
 
 **学号**：2024111109号
 
+![Pipeline](https://raw.githubusercontent.com/NoahRe1/prml-mbti/refs/heads/main/pipeline.png)
+
 # 文件说明
 
 - prml_mbti.ipynb（代码）
